@@ -2,6 +2,8 @@
 
 This is a demo of collection variables
 
+https://bruno-vars.vercel.app/
+
 A pet is created using a POST and then fetched via another GET request using the id returned in the first response!
 
 1. Variables can be set in one request...
